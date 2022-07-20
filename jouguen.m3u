@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="el pepe" tvg-logo="https://th.bing.com/th/id/OIP.f9L4CBurGvZCvR0W0RAbcwHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7" group-title="cocos",el pepe
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.E-Qmc_arUSWuDsiQItmBJQHaE7?w=233&h=180&c=7&r=0&o=5&pid=1.7", el pepe 
 https://download1514.mediafire.com/gz0pmhewf3gg/ry37c44a4flz89d/prueba.mp4
